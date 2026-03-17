@@ -1,6 +1,6 @@
 cask "freeflow" do
-  version "0.1.0-rc.1"
-  sha256 "df4bae851f32a315dfa4f6000585fe982e30160a94ab19cd793885e6d13f3969"
+  version "0.1.0-rc.2"
+  sha256 "09e5e75af886e14e93fb278d3445cb569417fa6365c394404591afc005210a47"
 
   url "https://github.com/build-trust/freeflow/releases/download/v#{version}/FreeFlow.dmg"
   name "FreeFlow"
