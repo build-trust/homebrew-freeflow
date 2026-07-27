@@ -7,7 +7,7 @@ cask "freeflow" do
   desc "Press a hotkey, dictate naturally, polished text appears in any app."
   homepage "https://github.com/mrinalwadhwa/freeflow"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "FreeFlow.app"
 
